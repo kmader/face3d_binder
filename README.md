@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kmader/face3d/master)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/face3d.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/face3d/context:python)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/face3d.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/face3d/alerts/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kmader/face3d_binder/master)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/kmader/face3d_binder.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/face3d_binder/context:python)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/kmader/face3d_binder.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kmader/face3d_binder/alerts/)
 
 # face3d: Python tools for processing 3D face
 
